@@ -12,7 +12,7 @@ dependencies:
   video_player: 0.10.0+2
   cached_network_image: ^1.1.1
 
-  flutter_markdown: ^0.3.1
+  flutter_markdown: 0.3.0
   html2md: ^0.3.0
 
 environment:
